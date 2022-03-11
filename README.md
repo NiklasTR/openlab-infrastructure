@@ -10,10 +10,16 @@ ETH is (perhaps) moving to proof of stake in the summer. A lot of Ethereum commu
 Instead of continuing the mining by switching to another protocol, we want to offer an alternative way to put the valuable hardware to use: folding proteins, docking small molecules etc. 
 
 ## Technology
-Your GPU miner with: 
+Your GPU miner with the following hardware: 
 * NVIDIA graphics card
+  * RTX3090
+  * RTX3080Ti
+  * RTX3080
+  * RTX3070
+  * RTX3060
 * SSD storage
-* running Ubuntu
+
+Please make sure you have Ubuntu installed.
 
 ## Team 
 to be determined - ETHminers that want to take the green pill and help repurpose their infrastructure for biomedicine wanted. 
