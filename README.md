@@ -22,5 +22,5 @@ to be determined - ETHminers that want to take the green pill and help repurpose
 to be determined - bragging rights guaranteed, LabDAO governance rights likely.
 
 ## Reading
-[building a budget GPU machine](https://howardhsu.github.io/article/hw/)
+[building a budget deep learning machine](https://howardhsu.github.io/article/hw/)
 
