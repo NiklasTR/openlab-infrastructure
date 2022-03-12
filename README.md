@@ -11,7 +11,7 @@ Instead of switching to another token, we want to offer an alternative way to pu
 
 ## Technology
 Your GPU miner with the following hardware: 
-* NVIDIA graphics card
+* NVIDIA cards
   * RTX3090
   * RTX3080Ti
   * RTX3080
