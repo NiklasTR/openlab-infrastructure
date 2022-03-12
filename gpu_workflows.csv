@@ -1,3 +1,7 @@
-name, link, license, container
-alphafold, https://github.com/deepmind/alphafold, apache_2.0, FALSE
-colabfold, https://github.com/sokrypton/ColabFold, mit, TRUE
+name, link, license, container, topic
+alphafold, https://github.com/deepmind/alphafold, apache_2.0, FALSE, protein folding
+colabfold, https://github.com/sokrypton/ColabFold, mit, TRUE, protein folding
+equibind, https://github.com/HannesStark/EquiBind, mit, FALSE, ligand docking
+refinegnn, https://github.com/wengong-jin/RefineGNN, NA, FALSE, antibody structure and sequence modeling
+
+
